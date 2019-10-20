@@ -1,0 +1,169 @@
+form{
+    width:500px;
+    height:700px;
+    margin: auto;
+    padding: 20px;
+    background:white;
+    font-size: 13px;
+    font-family: verdana;
+    
+}
+.p h2{background-color: yellowgreen; }
+.mat p{color:black;
+background-color: wheat;}
+
+body{ 
+
+background-image: url("images/1.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+
+
+}
+.boxed {
+	
+    width: 600px;
+    height: 320px;
+    padding: 10px;
+    border: 0px;
+    margin: 80 250px; 
+}
+#containe {
+     width: 650px;
+    float: left;
+    padding: 20px;
+    margin-left:50px;
+    margin-top: -20px;
+    
+}
+h1{text-align: center;
+}
+
+.text {
+    width: 400px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+}
+.date{
+    width: 133px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+}
+table{
+    background-color: white;
+}
+.password {
+    width: 400px;
+    height: 50px;
+    background: #fff;
+    border-radius: 10px;
+    float:left;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+#forgot {
+    margin-top: 100px;
+}
+p{text-align: center;
+color:white;
+}
+.logo{
+    height: 200px;
+    font-size: 30px;
+    background-color: grey;
+}
+.logoc{
+    height: 250px;
+    font-size: 18px;
+    background-color: grey;
+oolor:white;
+text-align: center;
+}
+
+.logoc a{ 
+     
+     height: 200;
+     color: blue;
+     width: 100;
+     text-decoration: none;
+    font-family: arial;
+}
+
+footer{
+    height: 200px;
+    font-size: 20px;
+    background-color: lightseagreen;
+    text-align: center;
+    color: black;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+  height: 200px;
+}
+.navigation{
+    background-color: grey;
+    font-size: 20px;
+    height:200px;
+    background-color:yellow;
+    padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline;
+}
+li {
+display: inline;
+margin-right: 10px;}
+
+ .navigation a{ 
+     
+     height: 200;
+     color: blue;
+     width: 100;
+     text-decoration: none;
+    font-family: arial;
+}
+.nav a{height: 200;
+     color: blue;
+     width: 100;
+     text-decoration: none;
+    font-family: arial;}
+
+.nav{background-color: grey;
+    font-size: 20px;
+    height:200px;
+    background-color:yellow;
+    padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline;}
+
+.submit {
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    border: none;
+    color: #fff;
+    background: blue;
+    margin-left:110px;
+   
+}
+
+
+.signup {
+    margin-top: -40px;
+     margin-left:110px;
+}
+.signup a {
+      text-decoration: none;
+    color: blue;
+}
+
